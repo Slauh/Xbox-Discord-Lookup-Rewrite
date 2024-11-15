@@ -10,6 +10,7 @@ Setup guide
 **Go to config.json put in your bot token were it says Token grab your Client ID And put it into the ID Spot then open a terminal then just type node index.js**
 
 **NPM dependences** 
+
 discord.js
 
 prismarine-auth
